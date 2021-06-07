@@ -46,7 +46,7 @@ I studied react |Javascript | node
    [![Website Badge](https://img.shields.io/badge/-suhravhussen.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://suhrav-hussen.web.app/) 
    [![Linkedin Badge](https://img.shields.io/badge/-SuhravHussen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/suhrav-hussain-9a91241a3/) 
  
-   [![Gmail Badge](https://img.shields.io/badge/suhravshan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.suhravshan@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Gmail Badge](https://img.shields.io/badge/suhravshan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.suhravshan@gmail.com)](mailto:v.suhravshan@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@_S_U_H_R_A_V_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://www.instagram.com/_s_u_h_r_a_v_/) 
    [![Facebook Badge](https://img.shields.io/badge/-SuhravHussain-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/suhrav.hussain)
   

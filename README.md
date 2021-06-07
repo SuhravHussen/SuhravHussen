@@ -12,7 +12,7 @@ I'm from Moulvibazar - Bangladesh
 
 I studied react |Javascript | node  
 
-It's all folks
+
 
 ---
 

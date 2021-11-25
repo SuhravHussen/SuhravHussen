@@ -6,7 +6,7 @@
 </p>
 I'm Suhrav Hussen
 
-Programming  ❤️| Physics 💙| Games 💚
+Programming  ❤️|  Games 💚
 
 I'm from Moulvibazar - Bangladesh  
 

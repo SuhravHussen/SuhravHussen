@@ -10,7 +10,7 @@ Programming  ❤️|  Games 💚
 
 I'm from Moulvibazar - Bangladesh  
 
-I studied react |Javascript | node  
+I studying react |Javascript | node  
 
 
 

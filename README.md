@@ -38,12 +38,11 @@ I studying react |Javascript | node
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-suhravhussen.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://suhrav-hussen.web.app/) 
+   [![Website Badge](https://img.shields.io/badge/-suhravhussen.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://suhravhussen.netlify.app/) 
    [![Linkedin Badge](https://img.shields.io/badge/-SuhravHussen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/suhrav-hussain-9a91241a3/) 
  
    [![Gmail Badge](https://img.shields.io/badge/suhravshan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suhravshan@gmail.com)](mailto:suhravshan@gmail.com)

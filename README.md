@@ -1,9 +1,9 @@
 
  
 
-<p style={{marginRight: '20px'}}>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
-</p>
+
+  <img width="200" alt="hello!" align="center" src="https://giffiles.alphacoders.com/956/9562.gif">
+
 
 
 # About Me

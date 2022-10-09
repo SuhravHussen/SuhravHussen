@@ -5,8 +5,9 @@
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
+
 # About Me
-<div>
+<div  align="center">
 I'm Suhrav Hussen
 
 Programming  ❤️|  Games 💚

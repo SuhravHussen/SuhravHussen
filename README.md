@@ -1,11 +1,11 @@
 
  
-# About Me
+
 <p style={{marginRight: '20px'}}>
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
-
+# About Me
 <div>
 I'm Suhrav Hussen
 
@@ -13,7 +13,7 @@ Programming  ❤️|  Games 💚
 
 I'm from Moulvibazar - Bangladesh  
 
-I studying react |Javascript | node
+I'm studying react |Javascript | node
  
 <div>
 

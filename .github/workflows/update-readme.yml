@@ -1,4 +1,4 @@
-name: "Update README with Jinja2"
+name: "Update README with Javascript"
 
 on:
   schedule:
@@ -12,15 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v3
-        with:
-          python-version: "3.x"
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install jinja2
-      - name: Run Jinja2 script
-        run: python update_readme.py
+          sudo apt-get update -y
+          sudo apt-get install -y nodejs npm
+          npm install mustache
+      - name: Generate README content
+        run: |
+          node update_readme.js
       - name: Commit and push
         run: |
           git config user.name SuhravHussen

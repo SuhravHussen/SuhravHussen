@@ -27,37 +27,19 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<!--  -->
 <p align="center">
-
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-
-       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/suhravhussen/">
-
+<div align="center"  class="icons-social" style="margin-left: 10px;"><a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/suhravhussen/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-      
        </a>
-
-
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SuhravHussen">
-		      
           <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-          
         </a>
-
-
-
 	  	<a style="margin-left: 10px;" target="_blank" href="https://suhravhussen.xyz">
-  
-      <img src="https://img.icons8.com/dusk/40/domain.png">
-      
+      <img src="https://img.icons8.com/dusk/40/domain.png"> 
       </a>
-
 	  	<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=suhravshan@gmail.com&tf=cm">
-
 		  <img src="https://img.icons8.com/plasticine/40/gmail-new.png" >
-      
       </a>
-		
  </div>
-
 </p>

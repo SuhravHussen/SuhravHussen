@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const Mustache = require("mustache");
 
-fetch("/api/blog/allblogs", {
+fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {
   method: "POST",
   headers: {
     "Content-Type": "application/json",

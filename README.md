@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--  -->
 
-<h3>My resent articles</h3>
+<h1>My resent articles</h3>
 <table>
         <tr>
             <td width="300px">
@@ -16,19 +16,7 @@
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/">My First Blog Post</a>
-                <div></div>
-                <div><i>26/10/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/">
-                    <img src= alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/">Understanding Jinja2</a>
+            <a href="https://suhravhussen.xyz/blogs/"></a>
                 <div></div>
                 <div><i>26/10/2023</i></div>
             </td>

@@ -11,13 +11,13 @@
 <table>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/">
-                    <img src= alt="thumbnail">
+                <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1697350683&#x2F;Blog&#x2F;cover&#x2F;JavaScript-logo_lwofhw.png alt="thumbnail">
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/"></a>
-                <div></div>
+            <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">Decoding JavaScript: How Your Code Works Under the Hood</a>
+                <div>Unraveling the Mechanics: Exploring the Inner Workings of JavaScript Code</div>
                 <div><i>26/10/2023</i></div>
             </td>
         </tr>

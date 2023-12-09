@@ -1,13 +1,10 @@
 
 <h1 align="center"><b>Hi , I'm Suhrav Hussen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I'm a self-taught+developer;++;I'm from  from moulvibazar, sylhet "></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&random=false&width=435&lines=Assalamu+O+Alaikum+Warahmatullah;I'm+Suhrav+Hussen;From+Moulvibazar%2C+Sylhet)](https://git.io/typing-svg)
 <!--  -->
 
-<h1>My resent articles</h3>
+<h1>My recent articles</h3>
 <table>
         <tr>
             <td width="300px">
@@ -18,13 +15,30 @@
             <td>
             <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">Decoding JavaScript: How Your Code Works Under the Hood</a>
                 <div>Unraveling the Mechanics: Exploring the Inner Workings of JavaScript Code</div>
-                <div><i>26/10/2023</i></div>
+                <div><i>October 15, 2023</i></div>
             </td>
         </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-12-09T06:27:54Z - by **[Suhrav Hussen](https://suhravhussen.xyz)***
+*Updated at: December 9, 2023*
 </div>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/suhravhussen/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SuhravHussen">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://suhravhussen.xyz">
+				<img src="https://img.icons8.com/dusk/64/domain.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=suhravshan@gmail.com&tf=cm">
+				<img src="https://img.icons8.com/plasticine/100/gmail-new.png" ></a>
+		
+      </div>
+
+</p>

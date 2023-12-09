@@ -2,8 +2,7 @@ from jinja2 import Environment, FileSystemLoader
 
 
 def main(): 
-    # Get the current timestamp in UTC and format it
-    updated_at = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+
 
     # Articles data
     articles_data = [

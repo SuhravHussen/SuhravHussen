@@ -24,6 +24,12 @@ jobs:
         run: |
           git config user.name SuhravHussen
           git config user.email suhravshan@gmail.com
-          git add README.md
-          git commit -m "Update README.md with dynamic content"
-          git push origin main
+          git add .
+
+          if git diff --cached --exit-code; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git commit -m "update"
+            git rebase main
+            git push origin main

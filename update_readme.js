@@ -48,7 +48,7 @@ fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {
 `;
 
     const renderedReadme = Mustache.render(template, {
-      articles: articlesData,
+      articles: articlesData.blogs,
     });
 
     fs.writeFileSync("README.md", renderedReadme);

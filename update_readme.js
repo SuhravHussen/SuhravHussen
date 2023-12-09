@@ -13,19 +13,55 @@ const weatherData = [
 ];
 
 const template = `
-# My Awesome Blog
+<!DOCTYPE html>
 
-## Articles
+<html
+ 
+lang="en">
 
-{{#articles}}
-* **[{{title}}]({url})**
-{{/articles}}
+<head>
 
-## Weather Forecast
+  
+<meta
+ 
+charset="UTF-8">
 
-{{#weathers}}
-* **{{date}}:** {{forecast}}
-{{/weathers}}
+  
+<meta
+ 
+name="viewport"
+ 
+content="width=device-width, initial-scale=1.0">
+
+  
+<title>{{title}}</title>
+
+</head>
+
+<body>
+  <header>
+    <img src="{{cover_image}}" alt="{{title}}">
+    <h1>{{title}}</h1>
+    <p>{{description}}</p>
+  </header>
+
+  <main>
+    ## Articles
+
+    {{#articles}}
+      <article>
+        <h2>{{title}}</h2>
+        <p>By Suhrav Hussen on 2023</p>
+        <img src="{{image}}" alt="{{title}}">
+      
+      </article>
+    {{/articles}}
+
+  </main>
+
+
+</body>
+</html>
 `;
 
 const renderedReadme = Mustache.render(template, {

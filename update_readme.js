@@ -2,17 +2,18 @@ const fs = require("fs");
 
 const Mustache = require("mustache");
 
-const articlesData = [
-  { title: "My First Blog Post", url: "https://myblog.com/first-post" },
-  { title: "Understanding Jinja2", url: "https://myblog.com/jinja2" },
-];
-
-const weatherData = [
-  { date: "2023-09-15", forecast: "Sunny" },
-  { date: "2023-09-16", forecast: "Cloudy" },
-];
-
-const template = `
+fetch("/api/blog/allblogs", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify({
+    pageNumber: 1,
+  }),
+})
+  .then((res) => res.json())
+  .then((articlesData) => {
+    const template = `
 <h1 align="center"><b>Hi , I'm Suhrav Hussen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -21,7 +22,7 @@ const template = `
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--  -->
 
-<h3>My resent articles</h3>
+<h1>My resent articles</h3>
 <table>
 {{#articles}}
         <tr>
@@ -46,9 +47,9 @@ const template = `
 
 `;
 
-const renderedReadme = Mustache.render(template, {
-  articles: articlesData,
-  weathers: weatherData,
-});
+    const renderedReadme = Mustache.render(template, {
+      articles: articlesData,
+    });
 
-fs.writeFileSync("README.md", renderedReadme);
+    fs.writeFileSync("README.md", renderedReadme);
+  });

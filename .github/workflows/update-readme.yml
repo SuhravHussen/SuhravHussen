@@ -33,3 +33,4 @@ jobs:
             git commit -m "update"
             git rebase main
             git push origin main
+          fi

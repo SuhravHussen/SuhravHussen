@@ -1,12 +1,54 @@
 
-# My Awesome Blog
+<!DOCTYPE html>
 
-## Articles
+<html
+ 
+lang="en">
 
-* **[My First Blog Post]({url})**
-* **[Understanding Jinja2]({url})**
+<head>
 
-## Weather Forecast
+  
+<meta
+ 
+charset="UTF-8">
 
-* **2023-09-15:** Sunny
-* **2023-09-16:** Cloudy
+  
+<meta
+ 
+name="viewport"
+ 
+content="width=device-width, initial-scale=1.0">
+
+  
+<title></title>
+
+</head>
+
+<body>
+  <header>
+    <img src="" alt="">
+    <h1></h1>
+    <p></p>
+  </header>
+
+  <main>
+    ## Articles
+
+      <article>
+        <h2>My First Blog Post</h2>
+        <p>By Suhrav Hussen on 2023</p>
+        <img src="" alt="My First Blog Post">
+      
+      </article>
+      <article>
+        <h2>Understanding Jinja2</h2>
+        <p>By Suhrav Hussen on 2023</p>
+        <img src="" alt="Understanding Jinja2">
+      
+      </article>
+
+  </main>
+
+
+</body>
+</html>

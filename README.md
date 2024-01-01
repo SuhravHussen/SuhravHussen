@@ -8,6 +8,42 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702537518&#x2F;Blog&#x2F;cover&#x2F;ray-so-export_2_ukieuw.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">Making Your Code Shine: A Simple Guide to Custom Highlighting for Websites.</a>
+                <div>Unlock the magic of custom code highlighting effortlessly. Elevate your website&#39;s visual appeal with this beginner-friendly guide.</div>
+                <div><i>December 14, 2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702300708&#x2F;Blog&#x2F;cover&#x2F;modal-routing_vujemn.avif alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">Next.js Unleashed: Exploring Parallel Routing and Intercepting Routes - A Detailed Blog</a>
+                <div>বাংলায় Nextjs 14 version এর  feature  Parallel routing এবং Intercepting routes  সম্পর্কে জানুন ।</div>
+                <div><i>December 11, 2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702187580&#x2F;Blog&#x2F;cover&#x2F;Y19maWxsLGFyXzE6MQ_moc2t5.jpg alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">Create Dynamic Readme.md file</a>
+                <div>Ever wondered how to effortlessly update your readme.md file every day or every hour? In this blog, I&#39;ll guide you through the process of making your readme dynamically engaging.</div>
+                <div><i>December 10, 2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1697350683&#x2F;Blog&#x2F;cover&#x2F;JavaScript-logo_lwofhw.png alt="thumbnail">
                 </a>
@@ -22,7 +58,7 @@
 
 <div align="right">
 
-*Updated at: December 9, 2023*
+*Updated at: December 31, 2023*
 </div>
 <br/>
 

@@ -1,5 +1,4 @@
 const fs = require("fs");
-
 const Mustache = require("mustache");
 
 fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {

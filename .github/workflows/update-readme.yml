@@ -20,8 +20,6 @@ jobs:
           nvm install 20
           nvm use 20
           npm install mustache
-      - name: Generate README content
-        run: |
           node update_readme.js
       - name: Commit and push
         run: |

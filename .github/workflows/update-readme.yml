@@ -20,8 +20,7 @@ jobs:
           nvm install 20
           nvm use 20
           npm install mustache
-          npm install node-fetch
-          node update_readme.js --no-experimental-fetch
+          node update_readme.js 
       - name: Commit and push
         run: |
           git config user.name SuhravHussen

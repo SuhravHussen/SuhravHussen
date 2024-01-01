@@ -58,7 +58,7 @@
 
 <div align="right">
 
-*Updated at: December 31, 2023*
+*Updated at: January 1, 2024*
 </div>
 <br/>
 

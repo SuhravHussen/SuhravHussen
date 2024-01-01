@@ -91,4 +91,5 @@ fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {
     });
 
     fs.writeFileSync("README.md", renderedReadme);
-  });
+  })
+  .catch((e)=>console.log(e))

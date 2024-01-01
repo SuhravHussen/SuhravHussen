@@ -1,4 +1,4 @@
-name: "Update README with Javascript"
+name: Update README with Javascript
 
 on:
   schedule:
@@ -12,10 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Install dependencies
+      - name: Install Node.js
         run: |
-          sudo apt-get update -y
-          sudo apt-get install -y nodejs npm
+          curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+          nvm install 20
           npm install mustache
       - name: Generate README content
         run: |

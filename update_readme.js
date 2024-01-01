@@ -1,5 +1,4 @@
 const fs = require("fs");
-import fetch from 'node-fetch';
 const Mustache = require("mustache");
 
 fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {

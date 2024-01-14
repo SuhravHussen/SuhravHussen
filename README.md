@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1705249104&#x2F;Blog&#x2F;cover&#x2F;images_4_lfvwtb.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">Beyond Request and Response: Demystifying Backend Communication Design Patterns</a>
+                <div>Untangle the web of backend communication: Discover the patterns that empower efficient, scalable, and real-time interactions.</div>
+                <div><i>January 14, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702537518&#x2F;Blog&#x2F;cover&#x2F;ray-so-export_2_ukieuw.png alt="thumbnail">
                 </a>

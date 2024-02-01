@@ -70,7 +70,7 @@
 
 <div align="right">
 
-*Updated at: January 31, 2024*
+*Updated at: February 1, 2024*
 </div>
 <br/>
 

@@ -82,7 +82,7 @@
 
 <div align="right">
 
-*Updated at: May 31, 2024*
+*Updated at: June 1, 2024*
 </div>
 <br/>
 

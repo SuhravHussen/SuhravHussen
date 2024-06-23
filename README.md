@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1719156835&#x2F;Blog&#x2F;cover&#x2F;Untitled_design_ktkjvd.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">Understanding Cache Control and ETag Headers</a>
+                <div>In web development, improving the speed and efficiency of your website is crucial. One way to do this is by using HTTP caching, which allows browsers to store copies of web pages and resources. </div>
+                <div><i>June 23, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1716472158&#x2F;Blog&#x2F;cover&#x2F;ssl_yzwsac.png alt="thumbnail">
                 </a>
@@ -64,18 +76,6 @@
             <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">Create Dynamic Readme.md file</a>
                 <div>Ever wondered how to effortlessly update your readme.md file every day or every hour? In this blog, I&#39;ll guide you through the process of making your readme dynamically engaging.</div>
                 <div><i>December 10, 2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1697350683&#x2F;Blog&#x2F;cover&#x2F;JavaScript-logo_lwofhw.png alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">Decoding JavaScript: How Your Code Works Under the Hood</a>
-                <div>Unraveling the Mechanics: Exploring the Inner Workings of JavaScript Code</div>
-                <div><i>October 15, 2023</i></div>
             </td>
         </tr>
 </table>

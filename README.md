@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726582180&#x2F;Blog&#x2F;cover&#x2F;Solid-principles_kysb9s.webp alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">SOLID: অবজেক্ট ওরিয়েন্টেড ডিজাইনের প্রথম ৫টি নীতি</a>
+                <div>এই নীতিগুলো এমন কিছু নিয়ম প্রতিষ্ঠা করে যা সফটওয়্যার ডেভেলপমেন্টে ব্যবহার করা হয়, যাতে প্রজেক্ট বড় হওয়ার সাথে সাথে তা রক্ষণাবেক্ষণ ও সম্প্রসারণ সহজ হয়।</div>
+                <div><i>September 17, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1719156835&#x2F;Blog&#x2F;cover&#x2F;Untitled_design_ktkjvd.png alt="thumbnail">
                 </a>
@@ -66,23 +78,11 @@
                 <div><i>December 11, 2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702187580&#x2F;Blog&#x2F;cover&#x2F;Y19maWxsLGFyXzE6MQ_moc2t5.jpg alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">Create Dynamic Readme.md file</a>
-                <div>Ever wondered how to effortlessly update your readme.md file every day or every hour? In this blog, I&#39;ll guide you through the process of making your readme dynamically engaging.</div>
-                <div><i>December 10, 2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: September 17, 2024*
+*Updated at: September 18, 2024*
 </div>
 <br/>
 

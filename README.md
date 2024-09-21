@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726924321&#x2F;Blog&#x2F;cover&#x2F;Screenshot_2024-09-21_191036_spckp4.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">Creation Design Patterns</a>
+                <div>সফটওয়্যার ইঞ্জিনিয়ারিংয়ে ডিজাইন প্যাটার্ন হল কোডের সাধারণ সমস্যার পুনঃব্যবহারযোগ্যতা বাড়ানোর জন্য এক ধরনের নিয়মকানুন বা টেম্পলেট। এর মাধ্যমে সফটওয়্যার একটি নির্দিষ্ট আর্কিটেকচারের অধীনে তৈরি করা যায় এবং কোডের অযথা পুনরাবৃত্তি এড়ানো সম্ভব হয়</div>
+                <div><i>September 21, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726582180&#x2F;Blog&#x2F;cover&#x2F;Solid-principles_kysb9s.webp alt="thumbnail">
                 </a>
@@ -64,18 +76,6 @@
             <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">Making Your Code Shine: A Simple Guide to Custom Highlighting for Websites.</a>
                 <div>Unlock the magic of custom code highlighting effortlessly. Elevate your website&#39;s visual appeal with this beginner-friendly guide.</div>
                 <div><i>December 14, 2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702300708&#x2F;Blog&#x2F;cover&#x2F;modal-routing_vujemn.avif alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">Next.js Unleashed: Exploring Parallel Routing and Intercepting Routes - A Detailed Blog</a>
-                <div>বাংলায় Nextjs 14 version এর  feature  Parallel routing এবং Intercepting routes  সম্পর্কে জানুন ।</div>
-                <div><i>December 11, 2023</i></div>
             </td>
         </tr>
 </table>

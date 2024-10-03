@@ -13,7 +13,7 @@ async function fetchBlogs(currentPage) {
 
     return response;
   } catch (error) {
-    console.error("Error fetching blogs:", error);
+    console.error("Error fetching blogs :", error);
     throw error;
   }
 }

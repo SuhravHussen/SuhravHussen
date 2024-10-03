@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Suhrav Hussen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Suhrav Hussen 😃 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Assalamualaikum+warahmatullah;I'm+Suhrav+Hussen+Sourov;I'm+from+moulvibazar%2C+Sylhet+;Working+with+javascript+" alt="Typing SVG" /></a>
 <!--  -->
@@ -13,7 +13,7 @@
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">Behavioral Design Patterns Part Two</a>
+            <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">Behavioral Design Patterns Part 2</a>
                 <div>Behavioral Design Patterns মূলত বিভিন্ন object এর মধ্যে যোগাযোগ এবং interaction এর পদ্ধতি নির্ধারণ করে। এই patterns গুলো objects গুলোর মধ্যে দায়িত্ব বন্টন, কাজ ভাগ করে দেওয়া, এবং কীভাবে তারা একে অপরের সাথে কাজ করবে সেটা ঠিক করতে সাহায্য করে।</div>
                 <div><i>October 3, 2024</i></div>
             </td>

@@ -4,7 +4,7 @@ const Mustache = require("mustache");
 async function fetchBlogs(currentPage) {
   try {
     const response = await fetch(
-      `${process.env.baseUrl}/api/blog/allblogs?pageNumber=${currentPage}&perPage=7`
+      `${process.env.BASEURL}/api/blog/allblogs?pageNumber=${currentPage}&perPage=7`
     );
 
     if (!response.ok) {

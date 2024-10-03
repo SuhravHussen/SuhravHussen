@@ -8,58 +8,90 @@
 <table>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702537518&#x2F;Blog&#x2F;cover&#x2F;ray-so-export_2_ukieuw.png alt="thumbnail">
+                <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1727700309&#x2F;Blog&#x2F;cover&#x2F;behavioral-design-pattern_o9styn.webp alt="thumbnail">
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/657aa946c7c68b8b78cc17f1">Making Your Code Shine: A Simple Guide to Custom Highlighting for Websites.</a>
-                <div>Unlock the magic of custom code highlighting effortlessly. Elevate your website&#39;s visual appeal with this beginner-friendly guide.</div>
-                <div><i>December 14, 2023</i></div>
+            <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">Behavioral Design Patterns Part Two</a>
+                <div>Behavioral Design Patterns মূলত বিভিন্ন object এর মধ্যে যোগাযোগ এবং interaction এর পদ্ধতি নির্ধারণ করে। এই patterns গুলো objects গুলোর মধ্যে দায়িত্ব বন্টন, কাজ ভাগ করে দেওয়া, এবং কীভাবে তারা একে অপরের সাথে কাজ করবে সেটা ঠিক করতে সাহায্য করে।</div>
+                <div><i>October 3, 2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702300708&#x2F;Blog&#x2F;cover&#x2F;modal-routing_vujemn.avif alt="thumbnail">
+                <a href="https://suhravhussen.xyz/blogs/66faa85e04bccd33a0a00ea5">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1727700309&#x2F;Blog&#x2F;cover&#x2F;behavioral-design-pattern_o9styn.webp alt="thumbnail">
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/65770d28a23619a9445abff8">Next.js Unleashed: Exploring Parallel Routing and Intercepting Routes - A Detailed Blog</a>
-                <div>বাংলায় Nextjs 14 version এর  feature  Parallel routing এবং Intercepting routes  সম্পর্কে জানুন ।</div>
-                <div><i>December 11, 2023</i></div>
+            <a href="https://suhravhussen.xyz/blogs/66faa85e04bccd33a0a00ea5">Behavioral Design Patterns Part One</a>
+                <div>Behavioral Design Patterns অবজেক্টগুলোর মধ্যে যোগাযোগ এবং আচরণ নিয়ন্ত্রণ করে। এগুলো বিভিন্ন অবজেক্টের মধ্যে দায়িত্ব বন্টন এবং কানেকশন বিশ্লেষন কর</div>
+                <div><i>September 30, 2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1702187580&#x2F;Blog&#x2F;cover&#x2F;Y19maWxsLGFyXzE6MQ_moc2t5.jpg alt="thumbnail">
+                <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726924321&#x2F;Blog&#x2F;cover&#x2F;Screenshot_2024-09-21_191036_spckp4.png alt="thumbnail">
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/65754eac82957c6717fb25ad">Create Dynamic Readme.md file</a>
-                <div>Ever wondered how to effortlessly update your readme.md file every day or every hour? In this blog, I&#39;ll guide you through the process of making your readme dynamically engaging.</div>
-                <div><i>December 10, 2023</i></div>
+            <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">Creation Design Patterns</a>
+                <div>সফটওয়্যার ইঞ্জিনিয়ারিংয়ে ডিজাইন প্যাটার্ন হল কোডের সাধারণ সমস্যার পুনঃব্যবহারযোগ্যতা বাড়ানোর জন্য এক ধরনের নিয়মকানুন বা টেম্পলেট। এর মাধ্যমে সফটওয়্যার একটি নির্দিষ্ট আর্কিটেকচারের অধীনে তৈরি করা যায় এবং কোডের অযথা পুনরাবৃত্তি এড়ানো সম্ভব হয়</div>
+                <div><i>September 21, 2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1697350683&#x2F;Blog&#x2F;cover&#x2F;JavaScript-logo_lwofhw.png alt="thumbnail">
+                <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726582180&#x2F;Blog&#x2F;cover&#x2F;Solid-principles_kysb9s.webp alt="thumbnail">
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/652b89dce510b7e90ddd04b2">Decoding JavaScript: How Your Code Works Under the Hood</a>
-                <div>Unraveling the Mechanics: Exploring the Inner Workings of JavaScript Code</div>
-                <div><i>October 15, 2023</i></div>
+            <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">SOLID: অবজেক্ট ওরিয়েন্টেড ডিজাইনের প্রথম ৫টি নীতি</a>
+                <div>এই নীতিগুলো এমন কিছু নিয়ম প্রতিষ্ঠা করে যা সফটওয়্যার ডেভেলপমেন্টে ব্যবহার করা হয়, যাতে প্রজেক্ট বড় হওয়ার সাথে সাথে তা রক্ষণাবেক্ষণ ও সম্প্রসারণ সহজ হয়।</div>
+                <div><i>September 17, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1719156835&#x2F;Blog&#x2F;cover&#x2F;Untitled_design_ktkjvd.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">Understanding Cache Control and ETag Headers</a>
+                <div>In web development, improving the speed and efficiency of your website is crucial. One way to do this is by using HTTP caching, which allows browsers to store copies of web pages and resources. </div>
+                <div><i>June 23, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1716472158&#x2F;Blog&#x2F;cover&#x2F;ssl_yzwsac.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">SSL সার্টিফিকেট কিভাবে কাজ করে?</a>
+                <div>Secure Sockets Layer (SSL) সার্টিফিকেট ওয়েবসাইট এর সিকিউরিটির জন্য ব্যাবহৃত  সার্ভিস যা আমরা প্রায় প্রতিদিনই ব্যাবহার করে আসছি ।</div>
+                <div><i>May 23, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1705249104&#x2F;Blog&#x2F;cover&#x2F;images_4_lfvwtb.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">Beyond Request and Response: Demystifying Backend Communication Design Patterns</a>
+                <div>Untangle the web of backend communication: Discover the patterns that empower efficient, scalable, and real-time interactions.</div>
+                <div><i>January 14, 2024</i></div>
             </td>
         </tr>
 </table>
 
-<div align="right">
-
-*Updated at: December 31, 2023*
-</div>
 <br/>
 
 

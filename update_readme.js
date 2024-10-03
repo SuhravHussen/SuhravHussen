@@ -1,15 +1,24 @@
 const fs = require("fs");
 const Mustache = require("mustache");
 
-fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  },
-  body: JSON.stringify({
-    pageNumber: 1,
-  }),
-})
+async function fetchBlogs(currentPage) {
+  try {
+    const response = await fetch(
+      `${process.env.baseUrl}/api/blog/allblogs?pageNumber=${currentPage}&perPage=7`
+    );
+
+    if (!response.ok) {
+      throw new Error("Failed to fetch data");
+    }
+
+    return response;
+  } catch (error) {
+    console.error("Error fetching blogs:", error);
+    throw error;
+  }
+}
+
+fetchBlogs(1)
   .then((res) => res.json())
   .then((articlesData) => {
     // Preprocess data to format dates
@@ -52,10 +61,6 @@ fetch("https://www.suhravhussen.xyz/api/blog/allblogs", {
         {{/articles}}
 </table>
 
-<div align="right">
-
-*Updated at: {{currentDate}}*
-</div>
 <br/>
 
 

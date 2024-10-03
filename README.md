@@ -13,7 +13,7 @@
                 </a>
             </td>
             <td>
-            <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">Behavioral Design Patterns Part 2</a>
+            <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">Behavioral Design Patterns Part Two</a>
                 <div>Behavioral Design Patterns মূলত বিভিন্ন object এর মধ্যে যোগাযোগ এবং interaction এর পদ্ধতি নির্ধারণ করে। এই patterns গুলো objects গুলোর মধ্যে দায়িত্ব বন্টন, কাজ ভাগ করে দেওয়া, এবং কীভাবে তারা একে অপরের সাথে কাজ করবে সেটা ঠিক করতে সাহায্য করে।</div>
                 <div><i>October 3, 2024</i></div>
             </td>

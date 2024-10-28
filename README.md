@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/671f94e34932d9dc332946ef">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730121224&#x2F;Blog&#x2F;cover&#x2F;sdp-_1_yz4t04.webp alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/671f94e34932d9dc332946ef">Structural Design Patterns</a>
+                <div>Structural Design Patterns এমন Design Pattern  যা বিভিন্ন class এবং object এর মধ্যে সম্পর্ক গঠন এবং তাদের সহজে কাজ করার উপায় নিয়ে কাজ করে। এর মূল উদ্দেশ্য হলো objects এবং classes এর মধ্যে সহজে সংযোগ স্থাপন করা ।</div>
+                <div><i>October 28, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1727700309&#x2F;Blog&#x2F;cover&#x2F;behavioral-design-pattern_o9styn.webp alt="thumbnail">
                 </a>
@@ -76,18 +88,6 @@
             <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">SSL সার্টিফিকেট কিভাবে কাজ করে?</a>
                 <div>Secure Sockets Layer (SSL) সার্টিফিকেট ওয়েবসাইট এর সিকিউরিটির জন্য ব্যাবহৃত  সার্ভিস যা আমরা প্রায় প্রতিদিনই ব্যাবহার করে আসছি ।</div>
                 <div><i>May 23, 2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1705249104&#x2F;Blog&#x2F;cover&#x2F;images_4_lfvwtb.png alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/65a4096aa60ae50a769d618d">Beyond Request and Response: Demystifying Backend Communication Design Patterns</a>
-                <div>Untangle the web of backend communication: Discover the patterns that empower efficient, scalable, and real-time interactions.</div>
-                <div><i>January 14, 2024</i></div>
             </td>
         </tr>
 </table>

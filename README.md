@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/672380dfde056d930d84c8e9">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/672380dfde056d930d84c8e9"> মাইক্রোসার্ভিস ডিকম্পোজিশন প্যাটার্নস </a>
+                <div>মাইক্রোসার্ভিস আর্কিটেকচার বড় এবং জটিল অ্যাপ্লিকেশনগুলোকে ছোট, ম্যানেজেবল অংশে ভাঙার জন্য বেশ জনপ্রিয়। তবে, পুরো সিস্টেমকে ছোট ছোট অংশে ভাগ করা মোটেই সহজ নয়। একটি বড় অ্যাপ্লিকেশনকে কীভাবে ছোট সার্ভিসে ভাঙবেন, সেটি সঠিকভাবে না করলে পরে সমস্যায় পড়তে পারেন।</div>
+                <div><i>October 31, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/671f94e34932d9dc332946ef">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730121224&#x2F;Blog&#x2F;cover&#x2F;sdp-_1_yz4t04.webp alt="thumbnail">
                 </a>
@@ -76,18 +88,6 @@
             <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">Understanding Cache Control and ETag Headers</a>
                 <div>In web development, improving the speed and efficiency of your website is crucial. One way to do this is by using HTTP caching, which allows browsers to store copies of web pages and resources. </div>
                 <div><i>June 23, 2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1716472158&#x2F;Blog&#x2F;cover&#x2F;ssl_yzwsac.png alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/664f6701867d67464f4a3540">SSL সার্টিফিকেট কিভাবে কাজ করে?</a>
-                <div>Secure Sockets Layer (SSL) সার্টিফিকেট ওয়েবসাইট এর সিকিউরিটির জন্য ব্যাবহৃত  সার্ভিস যা আমরা প্রায় প্রতিদিনই ব্যাবহার করে আসছি ।</div>
-                <div><i>May 23, 2024</i></div>
             </td>
         </tr>
 </table>

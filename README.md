@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/6728d4ff5831d27b3809603b">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/6728d4ff5831d27b3809603b">মাইক্রোসার্ভিস এর কিছু গুরুত্বপুর্ন প্যাটার্ন সমুহ  :  স্ট্র্যাংলার প্যাটার্ন, সাগা প্যাটার্ন ,  CQRS</a>
+                <div>স্ট্র্যাংলার প্যাটার্ন একটি software development প্যাটার্ন, যেখানে ধীরে ধীরে পুরনো (legacy) সিস্টেমকে ছোট ছোট অংশে ভেঙে নতুন প্রযুক্তিতে মাইগ্রেট করা হয়। এতে পুরনো সিস্টেমটি পুরোপুরি বন্ধ না করেই নতুন সিস্টেম চালু করা যায়।</div>
+                <div><i>November 4, 2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/672380dfde056d930d84c8e9">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
                 </a>
@@ -76,18 +88,6 @@
             <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">SOLID: অবজেক্ট ওরিয়েন্টেড ডিজাইনের প্রথম ৫টি নীতি</a>
                 <div>এই নীতিগুলো এমন কিছু নিয়ম প্রতিষ্ঠা করে যা সফটওয়্যার ডেভেলপমেন্টে ব্যবহার করা হয়, যাতে প্রজেক্ট বড় হওয়ার সাথে সাথে তা রক্ষণাবেক্ষণ ও সম্প্রসারণ সহজ হয়।</div>
                 <div><i>September 17, 2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1719156835&#x2F;Blog&#x2F;cover&#x2F;Untitled_design_ktkjvd.png alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/66784c707b3b95a0d92bb247">Understanding Cache Control and ETag Headers</a>
-                <div>In web development, improving the speed and efficiency of your website is crucial. One way to do this is by using HTTP caching, which allows browsers to store copies of web pages and resources. </div>
-                <div><i>June 23, 2024</i></div>
             </td>
         </tr>
 </table>

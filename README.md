@@ -8,6 +8,18 @@
 <table>
         <tr>
             <td width="300px">
+                <a href="https://suhravhussen.xyz/blogs/685f83ebc64063a646f47092">
+                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1751089931&#x2F;Blog&#x2F;cover&#x2F;1_cvx7D8ysHPfb6-Q3PsRzbQ_pimhtt.png alt="thumbnail">
+                </a>
+            </td>
+            <td>
+            <a href="https://suhravhussen.xyz/blogs/685f83ebc64063a646f47092">React Query এর Powerful Features </a>
+                <div>React application development এ server state management একটা বিশাল চ্যালেঞ্জ। আর এই সমস্যার সমাধানে React Query (এখন TanStack Query নামে পরিচিত) একটা অসাধারণ library।</div>
+                <div><i>June 28, 2025</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://suhravhussen.xyz/blogs/6728d4ff5831d27b3809603b">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
                 </a>
@@ -76,18 +88,6 @@
             <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">Creation Design Patterns</a>
                 <div>সফটওয়্যার ইঞ্জিনিয়ারিংয়ে ডিজাইন প্যাটার্ন হল কোডের সাধারণ সমস্যার পুনঃব্যবহারযোগ্যতা বাড়ানোর জন্য এক ধরনের নিয়মকানুন বা টেম্পলেট। এর মাধ্যমে সফটওয়্যার একটি নির্দিষ্ট আর্কিটেকচারের অধীনে তৈরি করা যায় এবং কোডের অযথা পুনরাবৃত্তি এড়ানো সম্ভব হয়</div>
                 <div><i>September 21, 2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">
-                    <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726582180&#x2F;Blog&#x2F;cover&#x2F;Solid-principles_kysb9s.webp alt="thumbnail">
-                </a>
-            </td>
-            <td>
-            <a href="https://suhravhussen.xyz/blogs/66e993643831b2ff467ab207">SOLID: অবজেক্ট ওরিয়েন্টেড ডিজাইনের প্রথম ৫টি নীতি</a>
-                <div>এই নীতিগুলো এমন কিছু নিয়ম প্রতিষ্ঠা করে যা সফটওয়্যার ডেভেলপমেন্টে ব্যবহার করা হয়, যাতে প্রজেক্ট বড় হওয়ার সাথে সাথে তা রক্ষণাবেক্ষণ ও সম্প্রসারণ সহজ হয়।</div>
-                <div><i>September 17, 2024</i></div>
             </td>
         </tr>
 </table>

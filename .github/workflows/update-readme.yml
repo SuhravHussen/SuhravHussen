@@ -2,7 +2,7 @@ name: Update README with Javascript
 
 on:
   schedule:
-    - cron: "15 */6 * * *" # runs every 6 hours at 15 minutes past the hour - change as needed
+    - cron: "15 */6 * * *" # runs every 6 hours at 15 minutes past the hour
   push:
     branches:
       - "main"
@@ -11,29 +11,32 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Node.js and update readme
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies and update readme
         env:
           BASEURL: ${{ secrets.BASEURL }}
         run: |
-          curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-          export NVM_DIR="$HOME/.nvm"
-          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-          nvm install 20
-          nvm use 20
           npm install mustache
           node update_readme.js
-      - name: Commit and push
+          
+      - name: Commit and push changes
         run: |
-          git config user.name SuhravHussen
-          git config user.email suhravshan@gmail.com
+          git config user.name "SuhravHussen"
+          git config user.email "suhravshan@gmail.com"
           git add .
 
           if git diff --cached --exit-code; then
             echo "No changes to commit."
             exit 0
           else
-            git commit -m "update"
-            git rebase main
+            git commit -m "update readme"
             git push origin main
           fi

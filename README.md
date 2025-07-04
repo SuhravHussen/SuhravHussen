@@ -8,7 +8,7 @@
 <table>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/685f83ebc64063a646f47092">
+                <a href="https://suhravhussen.vercel.app/blogs/685f83ebc64063a646f47092">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1751089931&#x2F;Blog&#x2F;cover&#x2F;1_cvx7D8ysHPfb6-Q3PsRzbQ_pimhtt.png alt="thumbnail">
                 </a>
             </td>
@@ -20,7 +20,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/6728d4ff5831d27b3809603b">
+                <a href="https://suhravhussen.vercel.app/blogs/6728d4ff5831d27b3809603b">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
                 </a>
             </td>
@@ -32,7 +32,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/672380dfde056d930d84c8e9">
+                <a href="https://suhravhussen.vercel.app/blogs/672380dfde056d930d84c8e9">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730379278&#x2F;Blog&#x2F;cover&#x2F;Microservices-Architecture_t41npy.webp alt="thumbnail">
                 </a>
             </td>
@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/671f94e34932d9dc332946ef">
+                <a href="https://suhravhussen.vercel.app/blogs/671f94e34932d9dc332946ef">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1730121224&#x2F;Blog&#x2F;cover&#x2F;sdp-_1_yz4t04.webp alt="thumbnail">
                 </a>
             </td>
@@ -56,7 +56,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/66fea039e18ae28cf6ebc6f2">
+                <a href="https://suhravhussen.vercel.app/blogs/66fea039e18ae28cf6ebc6f2">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1727700309&#x2F;Blog&#x2F;cover&#x2F;behavioral-design-pattern_o9styn.webp alt="thumbnail">
                 </a>
             </td>
@@ -68,7 +68,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/66faa85e04bccd33a0a00ea5">
+                <a href="https://suhravhussen.vercel.app/blogs/66faa85e04bccd33a0a00ea5">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1727700309&#x2F;Blog&#x2F;cover&#x2F;behavioral-design-pattern_o9styn.webp alt="thumbnail">
                 </a>
             </td>
@@ -80,7 +80,7 @@
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/66eec6ce1a8308d43057143e">
+                <a href="https://suhravhussen.vercel.app/blogs/66eec6ce1a8308d43057143e">
                     <img src=https:&#x2F;&#x2F;res.cloudinary.com&#x2F;doircnueq&#x2F;image&#x2F;upload&#x2F;v1726924321&#x2F;Blog&#x2F;cover&#x2F;Screenshot_2024-09-21_191036_spckp4.png alt="thumbnail">
                 </a>
             </td>

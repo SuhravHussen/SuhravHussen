@@ -48,7 +48,7 @@ fetchBlogs(1)
 {{#articles}}
         <tr>
             <td width="300px">
-                <a href="https://suhravhussen.xyz/blogs/{{id}}">
+                <a href="https://suhravhussen.vercel.app/blogs/{{id}}">
                     <img src={{image}} alt="thumbnail">
                 </a>
             </td>
